@@ -11,13 +11,13 @@ To install Project X, follow these steps:
 
 ## Library
 
-### 4.1 Hardware
+### Hardware
 This library comprises the physical components necessary for Project X's functionality. It includes schematics, PCB designs, and assembly instructions for building the required hardware.
 
-### 4.2 3D
+### 3D
 The 3D library contains printable designs for enclosures, mounts, or any other physical structures related to Project X. These designs are provided in various formats compatible with most 3D printers.
 
-### 4.3 Software
+### Software
 The software library encompasses the codebase required to operate Project X. It includes firmware for embedded systems, desktop applications, and any other software components necessary for seamless integration with the hardware.
 
 ## ToDo
