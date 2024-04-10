@@ -1,32 +1,32 @@
-# Project X - A Comprehensive Solution
+# Robowaiter - Autonomous Shot-Serving Robot
 
 ## Description
-Project X is an all-encompassing solution designed to streamline processes and enhance productivity. Whether you're a hobbyist or a professional, Project X offers a robust platform tailored to your needs. With a combination of hardware and software components, it provides a seamless experience for various tasks.
+Robowaiter is a small autonomous robot designed specifically for serving shots (drinks) in a bar setting. This innovative project aims to revolutionize the way drinks are served by leveraging robotics technology. With its compact size and intelligent navigation system, Robowaiter can maneuver through crowded bar spaces with ease, delivering shots efficiently and autonomously. Additionally, it is equipped with a camera for facial recognition and voice recognition capabilities, enhancing its interaction with customers.
 
 ## Install
-To install Project X, follow these steps:
+To set up Robowaiter, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
-3. Follow the instructions in the README files within each component directory for specific installation guidelines.
+3. Refer to the README files within each component directory for detailed installation instructions.
 
 ## Library
 
 ### Hardware
-This library comprises the physical components necessary for Project X's functionality. It includes schematics, PCB designs, and assembly instructions for building the required hardware.
+The hardware library includes all the necessary components and designs for building Robowaiter's physical structure. It contains schematics, PCB designs, and assembly instructions to help you construct the robot.
 
 ### 3D
-The 3D library contains printable designs for enclosures, mounts, or any other physical structures related to Project X. These designs are provided in various formats compatible with most 3D printers.
+In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available in various formats compatible with most 3D printers.
 
 ### Software
-The software library encompasses the codebase required to operate Project X. It includes firmware for embedded systems, desktop applications, and any other software components necessary for seamless integration with the hardware.
+The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
 
 ## ToDo
-- Enhance documentation for better understanding and ease of use.
-- Implement additional features to expand Project X's capabilities.
-- Optimize code for better performance and efficiency.
-- Conduct thorough testing across different environments to ensure compatibility and stability.
+- Improve documentation for better understanding and user-friendliness.
+- Explore opportunities to enhance Robowaiter's features and capabilities.
+- Optimize code for improved performance and efficiency.
+- Conduct extensive testing across different bar environments to ensure Robowaiter's reliability and adaptability.
 
 ## Refs
 - [Link to relevant documentation or external resources]
-- [Link to tutorials or guides for getting started]
-- [Any other helpful references related to Project X]
+- [Tutorials or guides for getting started with Robowaiter]
+- [Any other helpful references related to the project]
