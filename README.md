@@ -64,3 +64,7 @@ In th
 - [Any other helpful references related to the project]
 
 ## Authors
+- Bonaventura Munill Díaz
+- Guillem Cadevall Ferreres
+- Marc Serrano Sanz
+- Oscar Meca Moñino
