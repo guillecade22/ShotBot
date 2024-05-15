@@ -1,4 +1,4 @@
-# Robowaiter - Autonomous Shot-Serving Robot
+# Shotbot - Autonomous Shot-Serving Robot
 
 ## Description
 Robowaiter is a small autonomous robot designed specifically for serving shots (drinks) in a bar setting. This innovative project aims to revolutionize the way drinks are served by leveraging robotics technology. With its compact size and intelligent navigation system, Robowaiter can maneuver through crowded bar spaces with ease, delivering shots efficiently and autonomously. Additionally, it is equipped with a camera for facial recognition and voice recognition capabilities, enhancing its interaction with customers.
