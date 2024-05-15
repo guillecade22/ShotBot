@@ -38,7 +38,19 @@ The hardware library includes all the necessary components and designs for build
 In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available in various formats compatible with most 3D printers.
 
 ### Components list
-In th
+</br>
+| Component                   | Units | image |
+|-----------------------------|-------|------------|
+| Motor DC 12V 100RPM         | 4     | 2,64       |
+| Batería LiPo 5000mAh        | 2     | 11,90      |
+| Cámara autofocus 12MP       | 1     | 35,29      | 
+| Cámara térmica AMG8833      | 1     | 65,98      | 
+| SparkFun 9DoF IMU Breakout  | 1     | 6,25       |
+| Placa controladora de vuelo | 1     | -          | 
+| Receptor RF 434Mhz          | 1     | 36,32      | 
+| Emisor RF 434Mhz            | 1     | 35,32      | 
+| ESP32 STEAMakers            | 1     | 30,95      | 
+</br>
 
 ### Conections
 In th
