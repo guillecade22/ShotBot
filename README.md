@@ -1,4 +1,19 @@
 # Shotbot - Autonomous Shot-Serving Robot
+# Table of Contents
+   * [What is this?](#what-is-this)
+   * [Requirements](#requirements)
+   * [Documentation](#documentation)
+   * [Hardware section](#hardware-section)
+      * [3D Models](#3d-models)
+      * [Components list](#components-list)
+      * [Conections](#conections)
+   * [Software section](#software-section)
+      * [Module 1](#module-1)
+      * [Module 2](#module-2)
+      * [Module 3](#module-3)
+   * [Video](#video)
+   * [Refs](#refs)
+   * [Authors](#authors)
 
 ## Description
 Robowaiter is a small autonomous robot designed specifically for serving shots (drinks) in a bar setting. This innovative project aims to revolutionize the way drinks are served by leveraging robotics technology. With its compact size and intelligent navigation system, Robowaiter can maneuver through crowded bar spaces with ease, delivering shots efficiently and autonomously. Additionally, it is equipped with a camera for facial recognition and voice recognition capabilities, enhancing its interaction with customers.
