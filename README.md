@@ -34,10 +34,10 @@ To set up Robowaiter, follow these steps:
 s
 
 ## Hardware section
-The hardware library includes all the necessary components and designs for building Robowaiter's physical structure. It contains schematics, PCB designs, and assembly instructions to help you construct the robot.
+The hardware library includes all the necessary components and designs for building Robowaiter's physical structure. It contains schematics, 3D designs, and hardware components to help you construct the robot.
 
 ### 3D Models
-In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available in various formats compatible with most 3D printers.
+In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available to be 3D printed.
 | 3D Piece                  | Image | 3D Piece                   | Image |
 |-----------------------------|-------|-----------------------------|-------|
 | Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
