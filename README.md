@@ -1,5 +1,5 @@
 # Shotbot - Autonomous Shot-Serving Robot
-# (FOTO FINAL ROBOT)
+## (FOTO FINAL ROBOT)
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
@@ -62,27 +62,27 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 
 ### Connections
-In th
+## (FOTO FRITZING)
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
 
 ### Module 1
-In th
+---
 
 ### Module 2
-In th
+---
 
 ### Module 3
-In th 
+--- 
 
 ## Video
-- Imp
+---
 
 ## Refs
-- [Link to relevant documentation or external resources]
-- [Tutorials or guides for getting started with Robowaiter]
-- [Any other helpful references related to the project]
+- [Link to relevant documentation or external resources]()
+- [Tutorials or guides for getting started with Robowaiter]()
+- [Any other helpful references related to the project]()
 
 ## Authors
 - Bonaventura Munill Díaz
