@@ -8,7 +8,7 @@
    * [Hardware section](#hardware-section)
       * [3D Models](#3d-models)
       * [Components list](#components-list)
-      * [Conections](#conections)
+      * [Connections](#connections)
    * [Software section](#software-section)
       * [Module 1](#module-1)
       * [Module 2](#module-2)
