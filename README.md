@@ -48,7 +48,7 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 | Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
 | Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
 
---
+---
 ### Components list
 | Component                   | Image | Component                   | Image |
 |-----------------------------|-------|-----------------------------|-------|
@@ -61,7 +61,7 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 | [IR Sensor x2](https://www.amazon.es/AZDelivery-infrarrojos-kollissions-obst%C3%A1culos-Detecci%C3%B3n/dp/B07D924JHT/ref=sr_1_5?dib=eyJ2IjoiMSJ9.boGIVuDzM7hVuouV7v5voBn685_8NBEPErCYVJnBtE5WKAHWVM_5j69Er13dMEHxk52uJFn-uXSY_FMQjTSHJ_iKhy3HMqgqcHDhSKWYAZQ9xx3YOuqU7J4Ip7xbVN6pntB1eODfC0CUZzi1DUJ1cZBL5Qw7JP8raphWSgqSTEUBEdiTxty8ysE04cBQDmhZzAwRgvkece4ErxfRKxM50_lbe-yFLy_2OCdWEEpfj3k_VsIS8fpTC7GODLcRYPNoo9vgnB1jEpIn3OAIhvMjkZCb6LNnLakEBmTQApc4AC0.FQcqwUx4-0Rph1_cMOLC17gPpZdQQB6ho7Cg21HW1C4&dib_tag=se&keywords=Arduino%2BIr%2BSensor&qid=1709761946&sr=8-5&th=1)            |  <img src="https://m.media-amazon.com/images/I/81KlsR66F3L._SL1500_.jpg" width="200" height="150">     | [Batteries AA 1.5V x6](https://www.amazon.es/Verbatim-Pilas-Alcalino-Cil%C3%ADndrico-pieza/dp/B078TJF9WS/ref=sr_1_25?adgrpid=57795729258&dib=eyJ2IjoiMSJ9.L65noOE9_JgZ5YxJeGpMPpAVkV6TiZwh_KPSOj5x8ru4nhJMlju4TD7dhAZUGJ5dsvgaZwoHRP5AOkeUbM1PMP35-oBbrHNwgx2-sHIw0jgN1QZJMMkROWzQG51A1330Q_del9dCQ7lCLADiUxR4w4hQ8tM2LTn1G7oPyu-y_ADgc0dMgUvAzLHgBYP34AI6jCh1E8xXm6vCy0PCtuaQf03UEtP57_UwH7O2JP5i_zMgnvbtgW6906V5b3RSAYs_OgxDVui54MIQ4-9KdsU3t0S6IdEUjam9Pa4YZjs6HeE.QWQXNrBLZHMTtkF6p3l92fYSgsOD5w1fOYDnQi8Jo4I&dib_tag=se&hvadid=275560441087&hvdev=c&hvlocphy=20270&hvnetw=g&hvqmt=e&hvrand=14782402048233800436&hvtargid=kwd-300162477331&hydadcr=9878_1809596&keywords=pilas+aa&qid=1710949595&sr=8-25)            |   <img src="https://m.media-amazon.com/images/I/61QMU8rYeYS._AC_SL1500_.jpg" width="200" height="150">    |
 | [Wheels x2](https://tienda.bricogeek.com/ruedas-robotica/1609-pareja-de-ruedas-65mm-amarillo.html?search_query=ruedas&results=36)        |    <img src="https://tienda.bricogeek.com/7286-large_default/pareja-de-ruedas-65mm-amarillo.jpg" width="200" height="150">   |   [Roda boja](https://fadisel.com/ca/roda-boja-o-roda-robotica/1054-roda-boja-acer-o-13-mm.html)    |   <img src="https://fadisel.com/5515-large_default/roda-boja-acer-o-25-mm.jpg" width="200" height="150">    |
 
---
+---
 ### Connections
 ## (FOTO FRITZING)
 
