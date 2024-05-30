@@ -38,6 +38,15 @@ The hardware library includes all the necessary components and designs for build
 
 ### 3D Models
 In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available in various formats compatible with most 3D printers.
+| 3D Piece                  | Image | 3D Piece                   | Image |
+|-----------------------------|-------|-----------------------------|-------|
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
 
 ### Components list
 | Component                   | Image | Component                   | Image |
