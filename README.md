@@ -39,15 +39,15 @@ The hardware library includes all the necessary components and designs for build
 
 ### 3D Models
 In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available to be 3D printed.
-| 3D Piece                  | Image | 3D Piece                   | Image |
-|-----------------------------|-------|-----------------------------|-------|
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
-| Name         |   <img src="" width="200" height="150">    | Name            |   <img src="" width="200" height="150">   |
+| 3D Piece             | Image                                                               | 3D Piece              | Image                                                                 |
+|----------------------|---------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------|
+|     base.svg         |   <img src="Source/Base.png" width="200" height="150">              | sostre.svg            |   <img src="Source/Sostre.png" width="200" height="150">              |
+| base rodes.stl       |   <img src="Source/Base_roda.png" width="200" height="150">         | superficie_camara.svg |   <img src="Source/Superficia_camera.png" width="200" height="150">   |
+| base roda boja.stl   |   <img src="Source/Base_roda_boja.png" width="200" height="150">    | suport valvula.stl    |   <img src="Source/Suport_valvula.png" width="200" height="150">      |
+| paret_davantera.svg  |   <img src="Source/Frontal.png" width="200" height="150">           | T.svg                 |   <img src="Source/T.png" width="200" height="150">                   |
+| lateral.svg          |   <img src="Source/Lateral.png" width="200" height="150">           | mitg.svg              |   <img src="Source/Tapa_Mitja.png" width="200" height="150">          |
+| paret_de_derrera.svg |   <img src="Source/Retaguardia.png" width="200" height="150">       | 
+| rotatori.svg         |   <img src="Source/Rotor.png" width="200" height="150">             | 
 
 
 ### Components list
