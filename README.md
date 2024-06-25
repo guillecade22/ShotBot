@@ -71,7 +71,8 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
-There is an explanation below for each software module used by the robot:
+There is an explanation below for each software module used by the robot.
+<img src="assets/Diagrama_Flux.png" width="800" height="600">
 
 ### Movement 
 When the code is running, ShotBot starts moving forward until an obstacle is detected by the front ultrasound sensor or the infrared sensor is no longer detecting "ground".
