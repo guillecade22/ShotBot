@@ -56,7 +56,7 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 
 ### Connections
-<img src="assets/Fritzing.png" width="200" height="150">
+<img src="assets/Fritzing.png" width="800" height="600">
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
