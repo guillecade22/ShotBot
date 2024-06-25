@@ -26,14 +26,17 @@ For running this code, you need to install these languages and libraries:
 
 - [Python 3.12.x](https://www.python.org/)
 - [NumPy](https://numpy.org/)
-- [SciPy](https://scipy.org/)
+- [Sklearn](https://scikit-learn.org/stable/)
 - [Pillow](https://pillow.readthedocs.io/en/stable/)
-- [TensorFlow](https://www.tensorflow.org/install?hl=es-419)
 - [opencv-python](https://pypi.org/project/opencv-python/)
-- []()
-- []()
-- []()
-- []()
+- [luma.core](https://pypi.org/project/luma.core/)
+- [PyAudio](https://pypi.org/project/PyAudio/)
+- [Matplotlib](https://matplotlib.org/)
+- [pygame](https://www.pygame.org/news)
+- [wavefile](https://pypi.org/project/wavefile/)
+- [RPi.GPIO](https://pypi.org/project/RPi.GPIO/)
+- [pvleopard](https://pypi.org/project/pvleopard/)
+- [pvporcupine](https://pypi.org/project/pvporcupine/)
 
 ## Installation
 To set up ShotBot, follow these steps:
@@ -79,20 +82,20 @@ There is an explanation below for each software module used by the robot.
 
 ### Movement 
 When the code is running, ShotBot starts moving forward until an obstacle is detected by the front ultrasound sensor or the infrared sensor is no longer detecting "ground".
-If an obstacle is detected (within 10 centimeters), ShotBot stops and asks for the object to be removed using an audio. Once it is removed, ShotBot continues its way until the infrared sensor detects nothing. Then it starts moving backwards and repeats the cycle. The idea is to keep the robot moving all the time when there are no obstacles. There is a Wake Word defined (which can be modified) used to stop the robot and start asking for a drink. 
+If an obstacle is detected (within 25 centimeters), ShotBot stops and asks for the object to be removed using an audio. Once it is removed, ShotBot continues its way until the infrared sensor detects nothing. Then it starts moving backwards and repeats the cycle. The idea is to keep the robot moving all the time when there are no obstacles. There is a Wake Word defined (which can be modified) used to stop the robot and start asking for a drink. 
 
 ### Audio
 Once the Wake Word is detected, ShotBot stops right where it is, and reproduces an audio, asking you to come closer to the camera. Then it takes 4 photos and uses face detection to recognise you. If it is the first time you use the robot, it will save your photo in its database. If it is not the first time, it will automatically serve you the last drink you asked for.
 
 ### Serving shots
-There are 3 different drinks. You can ask for any of these or any combination of the three. The robot will understand what you want and will tell you to put a glass under the valvule. Then the drink will start filling your glass and once it is done, you can just take it.
+There are 3 different drinks. You can ask for any of these or a combination of all three. The robot will understand what you want and will tell you to put a glass under the valvule. Then the drink will start filling your glass and once it is done, you can just take it.
 
 ### Face detection
-We are using a previous made algorithm for a different project we created before. It compares your photos with the database and gives a prediction within a threshold. In case you are not classified as an already existing user, your photos will be saved in the database with a new ID. This way, ShotBot can remember your favorite drink and you will not need to ask for it again.
+We are using a previous made algorithm for a different project we created before. It compares your photo with the database and gives a prediction within a threshold. In case you are not classified as an already existing user, it takes you 4 photos which will be saved in the database with a new ID. This way, ShotBot can remember your favorite drink and you will not need to ask for it again.
 
 
 ## Video
--- 
+[](https://youtu.be/NFXD42IQADw)
 
 ## References
 - [Raspberry Pi 3 B+ Documentation and Tutorials](https://hetpro-store.com/TUTORIALES/raspberry-pi-3-b-plus-configuracion/)
