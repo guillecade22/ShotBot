@@ -70,18 +70,22 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
+There is an explanation below for each software module used by the robot:
 
 ### Movement 
--- (MOVIMENT + SENSORS + WAKE WORD)
-
-### Serving shots
--- (VALVULES)
-
-### Face detection
--- (CAMERA + ALGORITME)
+When the code is running, ShotBot starts moving forward until an obstacle is detected by the front ultrasound sensor or the infrared sensor is no longer detecting "ground".
+If an obstacle is detected (within 10 centimeters), ShotBot stops and asks for the object to be removed using an audio. Once it is removed, ShotBot continues its way until the infrared sensor detects nothing. Then it starts moving backwards and repeats the cycle. The idea is to keep the robot moving all the time when there are no obstacles. There is a Wake Word defined (which can be modified) used to stop the robot and start asking for a drink. 
 
 ### Audio
--- (SPEECH TO TEXT, WAKE WORD)
+Once the Wake Word is detected, ShotBot stops right where it is, and reproduces an audio, asking you to come closer to the camera. Then it takes 4 photos and uses face detection to recognise you. If it is the first time you use the robot, it will save your photo in its database. If it is not the first time, it will automatically serve you the last drink you asked for.
+ShotBot also uses audios for obstacle removal (front and back) and you can request a song to listen to from a small list.
+
+### Serving shots
+There are 3 different drinks. You can ask for any of these or any combination of the three. The robot will understand what you want and will tell you to put a glass under the valvule. Then the drink will start filling your glass and once it is done, you can just take it.
+
+### Face detection
+We are using a previous made algorithm for a different project we created before. It compares your photos with the database and gives a prediction within a threshold. In case you are not classified as an already existing user, your photos will be saved in the database with a new ID. This way, ShotBot can remember your favorite drink and you will not need to ask for it again.
+
 
 ## Video
 -- 
