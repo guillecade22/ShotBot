@@ -95,7 +95,7 @@ We are using a previous made algorithm for a different project we created before
 
 
 ## Video
-[](https://youtu.be/NFXD42IQADw)
+[https://youtu.be/NFXD42IQADw](https://youtu.be/NFXD42IQADw)
 
 ## References
 - [Raspberry Pi 3 B+ Documentation and Tutorials](https://hetpro-store.com/TUTORIALES/raspberry-pi-3-b-plus-configuracion/)
