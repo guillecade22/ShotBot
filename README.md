@@ -91,9 +91,8 @@ We are using a previous made algorithm for a different project we created before
 -- 
 
 ## References
-- [Link to relevant documentation or external resources]()
-- [Tutorials or guides for getting started with Robowaiter]()
-- [Any other helpful references related to the project]()
+- [Raspberry Pi 3 B+ Documentation and Tutorials](https://hetpro-store.com/TUTORIALES/raspberry-pi-3-b-plus-configuracion/)
+- [Raspberry GPIO Samples](https://elinux.org/RPi_GPIO_Code_Samples)
 
 ## Authors
 - Bonaventura Munill Díaz
