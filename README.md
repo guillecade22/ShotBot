@@ -41,7 +41,7 @@ For running this code, you need to install these languages and libraries:
 ## Installation
 To set up ShotBot, follow these steps:
 1. Clone the repository to your local machine.
-2. Install the required libraries (check documentation).
+2. Install the required libraries (check requirements).
 3. Execute main Python script.
 
 
