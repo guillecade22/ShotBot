@@ -20,7 +20,22 @@
 Robowaiter is a small autonomous robot designed specifically for serving shots (drinks) in a bar setting. This innovative project aims to revolutionize the way drinks are served by leveraging robotics technology. With its compact size and intelligent navigation system, Robowaiter can maneuver through crowded bar spaces with ease, delivering shots efficiently and autonomously. Additionally, it is equipped with a camera for facial recognition and voice recognition capabilities, enhancing its interaction with customers.
 
 ## Requirements
--- (Python, Raspberry OS, libraries, etc)
+For running this code, you need to install these languages and libraries:
+
+- [Python 3.12.x](https://www.python.org/)
+ 
+- [NumPy](https://numpy.org/)
+ 
+- [SciPy](https://scipy.org/)
+ 
+- [Matplotlib](https://matplotlib.org/)
+ 
+- [cvxpy](https://www.cvxpy.org/)
+
+- [aaa]()
+- [bbb]()
+- [ccc]()
+- [ddd]()
 
 ## Installation
 To set up Robowaiter, follow these steps:
