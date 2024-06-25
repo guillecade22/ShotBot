@@ -85,7 +85,7 @@ When the code is running, ShotBot starts moving forward until an obstacle is det
 If an obstacle is detected (within 25 centimeters), ShotBot stops and asks for the object to be removed using an audio. Once it is removed, ShotBot continues its way until the infrared sensor detects nothing. Then it starts moving backwards and repeats the cycle. The idea is to keep the robot moving all the time when there are no obstacles. There is a Wake Word defined (which can be modified) used to stop the robot and start asking for a drink. 
 
 ### Audio
-Once the Wake Word is detected, ShotBot stops right where it is, and reproduces an audio, asking you to come closer to the camera. Then it takes 4 photos and uses face detection to recognise you. If it is the first time you use the robot, it will save your photo in its database. If it is not the first time, it will automatically serve you the last drink you asked for.
+Once the Wake Word is detected, ShotBot stops right where it is, and reproduces an audio, asking you to come closer to the camera. Then it take a photo and uses face detection to recognise you. If it is the first time you use the robot, it will save your photos in its database. If it is not the first time, it will automatically serve you the last drink you asked for.
 
 ### Serving shots
 There are 3 different drinks. You can ask for any of these or a combination of all three. The robot will understand what you want and will tell you to put a glass under the valvule. Then the drink will start filling your glass and once it is done, you can just take it.
