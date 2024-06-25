@@ -9,9 +9,10 @@
       * [Components list](#components-list)
       * [Connections](#connections)
    * [Software section](#software-section)
-      * [Module 1](#module-1)
-      * [Module 2](#module-2)
-      * [Module 3](#module-3)
+      * [Movement](#movement)
+      * [Audio](#audio)
+      * [Serving shots](#serving-shots)
+      * [Face detection](#face-detection)
    * [Video](#video)
    * [References](#references)
    * [Authors](#authors)
@@ -71,7 +72,8 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
-There is an explanation below for each software module used by the robot.
+There is an explanation below for each software module used by the robot. 
+
 <img src="assets/Diagrama_Flux.png" width="400" height="600">
 
 ### Movement 
