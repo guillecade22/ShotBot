@@ -23,15 +23,10 @@ Robowaiter is a small autonomous robot designed specifically for serving shots (
 For running this code, you need to install these languages and libraries:
 
 - [Python 3.12.x](https://www.python.org/)
- 
 - [NumPy](https://numpy.org/)
- 
 - [SciPy](https://scipy.org/)
- 
 - [Matplotlib](https://matplotlib.org/)
- 
 - [cvxpy](https://www.cvxpy.org/)
-
 - [aaa]()
 - [bbb]()
 - [ccc]()
