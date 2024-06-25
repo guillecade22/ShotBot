@@ -42,9 +42,9 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 | 3D Piece             | Image                                                               | 3D Piece              | Image                                                                 |
 |----------------------|---------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------|
 |     Part superior            |   <img src="Source/Sostre.png" width="200" height="150">              | Base              |   <img src="Source/Tapa_Mitja.png" width="200" height="150">    |
-| Part inferior         |   <img src="Source/Base.png" width="200" height="150">         |   T.svg                 |   <img src="Source/T.png" width="200" height="150">                   |
-| lateral.svg          |   <img src="Source/Lateral.png" width="200" height="150">           | paret_de_derrera.svg |   <img src="Source/Retaguardia.png" width="200" height="150">    |
-| paret_davantera.svg  |   <img src="Source/Frontal.png" width="200" height="150">           | Suport roda motor x2       |   <img src="Source/Base_roda.png" width="200" height="150">   |
+| Part inferior         |   <img src="Source/Base.png" width="200" height="150">         |   Part lateral x2  |   <img src="Source/Lateral.png" width="200" height="150">         |
+| Front  |   <img src="Source/Frontal.png" width="200" height="150">           | Back |   <img src="Source/Retaguardia.png" width="200" height="150">    |
+| Suport infraroig x2  |   <img src="Source/T.png" width="200" height="150">           | Suport roda motor x2       |   <img src="Source/Base_roda.png" width="200" height="150">   |
 | Suport roda boja   |   <img src="Source/Base_roda_boja.png" width="200" height="150">    | Suport valvula x6    |   <img src="Source/Suport_valvula.png" width="200" height="150">          |
 
 
