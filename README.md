@@ -45,8 +45,8 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 | Part inferior         |   <img src="Source/Base.png" width="200" height="150">         |   Part lateral x2  |   <img src="Source/Lateral.png" width="200" height="150">         |
 | Front  |   <img src="Source/Frontal.png" width="200" height="150">           | Back |   <img src="Source/Retaguardia.png" width="200" height="150">    |
 | Suport infraroig x2  |   <img src="Source/T.png" width="200" height="150">           | Suport roda motor x2       |   <img src="Source/Base_roda.png" width="200" height="150">   |
-| Suport roda boja   |   <img src="Source/Base_roda_boja.png" width="200" height="150">    | Suport valvula x6    |   <img src="Source/Suport_valvula.png" width="200" height="150">          |
-
+| Suport roda boja   |   <img src="Source/Base_roda_boja.png" width="200" height="150">    | Suport valvula x6    |   <img src="Source/Suport_valvula.png" width="200" height="150"> |
+|Plataforma|<img src="Source/Rotor.png" width="200" height="150">|
 
 ### Components list
 | Component                   | Image | Component                   | Image |
