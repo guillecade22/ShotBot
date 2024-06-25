@@ -4,7 +4,6 @@
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
    * [Installation](#installation)
-   * [Documentation](#documentation)
    * [Hardware section](#hardware-section)
       * [3D Models](#3d-models)
       * [Components list](#components-list)
@@ -20,19 +19,15 @@
 ## What is this?
 Robowaiter is a small autonomous robot designed specifically for serving shots (drinks) in a bar setting. This innovative project aims to revolutionize the way drinks are served by leveraging robotics technology. With its compact size and intelligent navigation system, Robowaiter can maneuver through crowded bar spaces with ease, delivering shots efficiently and autonomously. Additionally, it is equipped with a camera for facial recognition and voice recognition capabilities, enhancing its interaction with customers.
 
-## Requirements
-- For running the code these are the required languages and libraries:
-* [Name](Link)
-* --
+## Requirementss
+-- (Python, Raspberry OS, etc)
 
 ## Installation
 To set up Robowaiter, follow these steps:
 1. Clone the repository to your local machine.
-2. Navigate to the project directory.
-3. Refer to the README files within each component directory for detailed installation instructions.
+2. Install the required libraries (check documentation).
+3. Execute main Python script.
 
-## Documentation
---
 
 ## Hardware section
 The hardware library includes all the necessary components and designs for building Robowaiter's physical structure. It contains schematics, 3D designs, and hardware components to help you construct the robot.
