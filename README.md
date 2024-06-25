@@ -25,12 +25,13 @@ For running this code, you need to install these languages and libraries:
 - [Python 3.12.x](https://www.python.org/)
 - [NumPy](https://numpy.org/)
 - [SciPy](https://scipy.org/)
-- [Matplotlib](https://matplotlib.org/)
-- [cvxpy](https://www.cvxpy.org/)
-- [aaa]()
-- [bbb]()
-- [ccc]()
-- [ddd]()
+- [Pillow](https://pillow.readthedocs.io/en/stable/)
+- [TensorFlow](https://www.tensorflow.org/install?hl=es-419)
+- [opencv-python](https://pypi.org/project/opencv-python/)
+- []()
+- []()
+- []()
+- []()
 
 ## Installation
 To set up Robowaiter, follow these steps:
@@ -78,7 +79,6 @@ If an obstacle is detected (within 10 centimeters), ShotBot stops and asks for t
 
 ### Audio
 Once the Wake Word is detected, ShotBot stops right where it is, and reproduces an audio, asking you to come closer to the camera. Then it takes 4 photos and uses face detection to recognise you. If it is the first time you use the robot, it will save your photo in its database. If it is not the first time, it will automatically serve you the last drink you asked for.
-ShotBot also uses audios for obstacle removal (front and back) and you can request a song to listen to from a small list.
 
 ### Serving shots
 There are 3 different drinks. You can ask for any of these or any combination of the three. The robot will understand what you want and will tell you to put a glass under the valvule. Then the drink will start filling your glass and once it is done, you can just take it.
