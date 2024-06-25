@@ -1,5 +1,6 @@
 # Shotbot - Autonomous Shot-Serving Robot
 <img src="assets/robot1.jpg" width="200" height="150">
+
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
