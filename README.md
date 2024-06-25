@@ -36,12 +36,12 @@ The hardware library includes all the necessary components and designs for build
 In the 3D library, you'll find printable designs for enclosures, mounts, and other physical structures required for Robowaiter. These designs are available to be 3D printed.
 | 3D Piece             | Image                                                               | 3D Piece              | Image                                                                 |
 |----------------------|---------------------------------------------------------------------|-----------------------|-----------------------------------------------------------------------|
-|     Part superior            |   <img src="Source/Sostre.png" width="200" height="150">              | Base              |   <img src="Source/Tapa_Mitja.png" width="200" height="150">    |
-| Part inferior         |   <img src="Source/Base.png" width="200" height="150">         |   Part lateral x2  |   <img src="Source/Lateral.png" width="200" height="150">         |
-| Front  |   <img src="Source/Frontal.png" width="200" height="150">           | Back |   <img src="Source/Retaguardia.png" width="200" height="150">    |
-| Suport infraroig x2  |   <img src="Source/T.png" width="200" height="150">           | Suport roda motor x2       |   <img src="Source/Base_roda.png" width="200" height="150">   |
-| Suport roda boja   |   <img src="Source/Base_roda_boja.png" width="200" height="150">    | Suport valvula x6    |   <img src="Source/Suport_valvula.png" width="200" height="150"> |
-|Plataforma|<img src="Source/Rotor.png" width="200" height="150">|
+|     Part superior            |   <img src="assets/Sostre.png" width="200" height="150">              | Base              |   <img src="assets/Tapa_Mitja.png" width="200" height="150">    |
+| Part inferior         |   <img src="assets/Base.png" width="200" height="150">         |   Part lateral x2  |   <img src="assets/Lateral.png" width="200" height="150">         |
+| Front  |   <img src="assets/Frontal.png" width="200" height="150">           | Back |   <img src="assets/Retaguardia.png" width="200" height="150">    |
+| Suport infraroig x2  |   <img src="assets/T.png" width="200" height="150">           | Suport roda motor x2       |   <img src="assets/Base_roda.png" width="200" height="150">   |
+| Suport roda boja   |   <img src="assets/Base_roda_boja.png" width="200" height="150">    | Suport valvula x6    |   <img src="assets/Suport_valvula.png" width="200" height="150"> |
+|Plataforma|<img src="assets/Rotor.png" width="200" height="150">|
 
 ### Components list
 | Component                   | Image | Component                   | Image |
@@ -56,7 +56,7 @@ In the 3D library, you'll find printable designs for enclosures, mounts, and oth
 
 
 ### Connections
-## (FOTO FRITZING)
+<img src="assets/Fritzing.png" width="200" height="150">
 
 ## Software section
 The software library houses the codebase needed to operate Robowaiter effectively. It encompasses firmware for the robot's embedded systems, as well as any desktop applications or software components essential for seamless integration with the hardware.
