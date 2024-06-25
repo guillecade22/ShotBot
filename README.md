@@ -3,7 +3,7 @@
 # Table of Contents
    * [What is this?](#what-is-this)
    * [Requirements](#requirements)
-   * [Install](#install)
+   * [Installation](#installation)
    * [Documentation](#documentation)
    * [Hardware section](#hardware-section)
       * [3D Models](#3d-models)
@@ -14,7 +14,7 @@
       * [Module 2](#module-2)
       * [Module 3](#module-3)
    * [Video](#video)
-   * [Refs](#refs)
+   * [References](#references)
    * [Authors](#authors)
 
 ## What is this?
@@ -25,7 +25,7 @@ Robowaiter is a small autonomous robot designed specifically for serving shots (
 * [Name](Link)
 * --
 
-## Install
+## Installation
 To set up Robowaiter, follow these steps:
 1. Clone the repository to your local machine.
 2. Navigate to the project directory.
@@ -81,7 +81,7 @@ The software library houses the codebase needed to operate Robowaiter effectivel
 ## Video
 --
 
-## Refs
+## References
 - [Link to relevant documentation or external resources]()
 - [Tutorials or guides for getting started with Robowaiter]()
 - [Any other helpful references related to the project]()
